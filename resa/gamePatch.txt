@@ -1,8 +1,27 @@
-<A1> Test Announcement
+=========================
+Caution - Always leave a space before and after <> and make sure the title is on a different line than the main text
+=========================
+
+------------------------Annoucement 1------------------------
+<A1> Test Announcement [Main]
 This is to see if spaces follow
-through when text is being loaded to unity.
+through when text is being loaded to unity. Also testing long text and ^symbols <3 and other __ symbols.
 </A1>
 
 <L1> https://store.steampowered.com/app/1032080/Boxed_Out/ </L1>
 
-test if outside text interrupts
+------------------------Annoucement 2------------------------
+<A2> Test Announcement 2
+This is to see if spaces follow
+through when text is being loaded to unity (yes/no)<>.
+</A2>
+
+<L2> https://google.com </L2>
+
+------------------------Annoucement 3------------------------
+<A3> Test Announcement 3
+This is to see if spaces follow through when text is being loaded to unity. This text is without any spaces to the next line test.
+</A3>
+
+<L3> https://twitter.com/xvertrex </L3>
+
