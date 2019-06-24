@@ -5,7 +5,7 @@ Caution - Always leave a space before and after <> and make sure the title is on
 ------------------------Annoucement 1------------------------
 <A1> Test Announcement [Main]
 This is to see if spaces follow
-through when text is being loaded to unity. Also testing long text and ^symbols <3 and other __ symbols.
+through when text is being loaded to unity. Also testing long text and symbols <3 and other symbols.
 </A1>
 
 <L1> https://store.steampowered.com/app/1032080/Boxed_Out/ </L1>
@@ -13,7 +13,7 @@ through when text is being loaded to unity. Also testing long text and ^symbols 
 ------------------------Annoucement 2------------------------
 <A2> Test Announcement 2
 This is to see if spaces follow
-through when text is being loaded to unity (yes/no)<>.
+through when text is being loaded to unity (yes/no).
 </A2>
 
 <L2> https://google.com/ </L2>
