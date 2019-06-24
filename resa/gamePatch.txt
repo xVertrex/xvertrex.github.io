@@ -1,0 +1,8 @@
+<A1> Test Announcement
+This is to see if spaces follow
+through when text is being loaded to unity.
+</A1>
+
+<L1> https://store.steampowered.com/app/1032080/Boxed_Out/ </L1>
+
+test if outside text interrupts
