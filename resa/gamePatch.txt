@@ -16,12 +16,12 @@ This is to see if spaces follow
 through when text is being loaded to unity (yes/no)<>.
 </A2>
 
-<L2> https://google.com </L2>
+<L2> https://google.com/ </L2>
 
 ------------------------Annoucement 3------------------------
 <A3> Test Announcement 3
 This is to see if spaces follow through when text is being loaded to unity. This text is without any spaces to the next line test.
 </A3>
 
-<L3> https://twitter.com/xvertrex </L3>
+<L3> https://twitter.com/xvertrex/ </L3>
 
