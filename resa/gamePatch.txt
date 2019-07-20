@@ -3,25 +3,23 @@ Note - All symbols can be used, no space needed before or after <>
 =========================
 
 ------------------------Annoucement 1------------------------
-<A1>Test Announcement
-Testing long text and symbols <3 and other symbols. (yes/no) tesing 1 2 3
+<A1>"Old Tech" Update (<13 days)
+There will be 5 dungeons in total, the "old tech" dungeon will be released next! Weapons and features will be unlocked gradually through the updates. Follow me on social media to stay up-to-date! (click this image)
 </A1>
 
-<L1>https://store.steampowered.com/app/1032080/Boxed_Out/</L1>
+<L1>https://twitter.com/xvertrex/</L1>
 
 ------------------------Annoucement 2------------------------
-<A2>Test Announcement 2
-This is to see if spaces follow
-
-through when text is being loaded to unity (yes/no) D:L
+<A2>Join Discord!
+Give feedback directly to the developer and see your contribution in the next update. (click this image)
 </A2>
 
-<L2>https://google.com/</L2>
+<L2>https://discord.gg/2akSGbB</L2>
 
 ------------------------Annoucement 3------------------------
-<A3>Test Announcement 3
-This is to see if spaces follow through when text is being loaded to unity. This text is without any spaces to the next line test.
+<A3>Active Development
+RESA is in active development for the next 4 months. Giving you, the players a chance to help shape the game.
 </A3>
 
-<L3>https://twitter.com/xvertrex/</L3>
+<L3></L3>
 
